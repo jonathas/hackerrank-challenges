@@ -5,5 +5,5 @@
  * objects: an array of objects with integer properties 'x' and 'y'
  */
 function getCount(objects) {
-
+    return objects.filter(obj => obj.x == obj.y).length;
 }
