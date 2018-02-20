@@ -4,7 +4,7 @@ body {
 
 #res {
     background-color: lightgray;
-    border: solid 1px;
+    border: solid;
     height: 48px;
     font-size: 20px;
 }
